@@ -7,7 +7,7 @@ You can [listen to my music on Bandcamp](https://peregrinewade.bandcamp.com/)
 I'm a French-British film composer.
 
 [Random piece of music](peregrine-film-music.github.io
-vacuumtap_and_piano.wav) and ![Image](src)
+\vacuumtap_and_piano.wav) and ![Image](peregrine-film-music.github.io\more_spectral_editing.png)
 
 
 **Bold** and _innovative_ film music is on its way.
